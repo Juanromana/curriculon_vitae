@@ -1,0 +1,38 @@
+ h1, h2, h3{
+    color:rgb(9, 175, 120);
+ }
+ p, ol, ul {
+  color:rgb(14, 141, 103);
+ }
+ h1{
+    font-size: 50px;   
+ }
+ img:hover {
+  box-shadow: inset;
+  transform: scale(1.6);
+ }
+ .ima {
+  text-align: center;
+ }
+ h2{
+    border-color:aliceblue;
+    border-style: solid;
+ } 
+ h1, h2, h3{
+  text-align: center;
+
+ }
+* body{
+  background-color: rgb(198, 255, 236);
+  font-family: 'Times New Roman', Times, serif;
+  margin: 12;
+}
+ h3, h2{
+   border-radius: 10%;
+   background-color: rgb(249, 250, 252);
+ }
+ div .con{
+  color: rgb(73, 238, 175);
+  border-style: inset;
+  border-color: rgb(73, 247, 203);
+ }
